@@ -1,7 +1,3 @@
-Awesome — let’s make you a clean, professional, and practical `README.md` for your repo:
-
----
-
 ## 📄 `README.md`
 
 ````markdown
