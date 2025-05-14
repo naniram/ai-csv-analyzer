@@ -28,12 +28,6 @@ Upload a CSV file, automatically generate key data summaries, and interactively 
 
 ---
 
-## 📸 Screenshots
-
-![App Screenshot](screenshot.png) <!-- optional -->
-
----
-
 ## 📦 Tech Stack
 
 - [Streamlit](https://streamlit.io/)
