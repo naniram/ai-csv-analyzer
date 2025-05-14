@@ -57,7 +57,7 @@ csv-insight-ai/
 ├── ai_utils.py
 ├── requirements.txt
 ├── README.md
-└── sam.csv
+└── sample.csv
 ```
 
 ---
